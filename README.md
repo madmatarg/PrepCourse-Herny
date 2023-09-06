@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-Este es un repositio del modulo dos del prep de henry
+Este proyecto es una prueba de como rear un repositorio y como0 cloranrlo a git
